@@ -1,2 +1,2 @@
 # Happy-Birthday
-The new page pary
+The new page par
